@@ -26,9 +26,10 @@ To continuously develop and refine my technical expertise while contributing sig
 ### Full Stack Developer
 **Temple and Webster / Diversify OSS BGC Inc. / HGS OSS**  
 *Nov 2021 – Present*
-- Led the upgrade to PHP 8 and implemented major performance optimizations.
-- Contributed extensively to the development of a containerized local environment.
+- Improved site performance by as much as 40% in response times.
 - Resolved long-standing database connectivity issues and addressed technical debt.
+- Major contributor to the upgrade to PHP 8 and major performance optimizations initiatives.
+- Contributed extensively to the development of a containerized local environment.
 
 ---
 
